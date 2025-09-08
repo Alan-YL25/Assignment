@@ -44,8 +44,11 @@ Sorry for not using flowchart and video here, maybe I will learn them later
 
 # Thought process
 import what we should have at the beginning
+
 First, the code should able to scan the input, the only thing should be noticed is the first numbers is the size of array which not included in that, then use nextInt() to scan numbers in array, this part should be in the main method.
+
 Second, create a method that could re-order the array from the argument by descenging order, I will explain this part in the how the code works part.
+
 Third, print the re-ordered array with required format, this part is in the end of main method.
 
 ## Why I choose this
